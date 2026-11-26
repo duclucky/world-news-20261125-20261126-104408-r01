@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+<title id="title">World in Five — 25 November 2026</title>
+<defs>
+  <pattern id="stars" width="83" height="71" patternUnits="userSpaceOnUse">
+    <circle cx="15" cy="18" r="1.7" fill="#9db0c5"/><circle cx="63" cy="47" r="1" fill="#c7d9eb"/>
+  </pattern>
+  <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse">
+    <circle cx="4" cy="4" r="1.4" fill="#44273a" opacity=".23"/>
+  </pattern>
+  <linearGradient id="rock" x2="1" y2="1" gradientUnits="objectBoundingBox">
+    <stop stop-color="#fff0c9"/><stop offset="1" stop-color="#cc765c"/>
+  </linearGradient>
+  <style>
+    text{font-family:Arial,sans-serif;fill:#17263a}
+    .caps{font-size:24px;letter-spacing:2.5px;font-weight:bold}
+    .headline{font-size:42px;font-weight:bold;letter-spacing:-1.5px}
+    .hero{font-size:64px;font-weight:bold;letter-spacing:-2px;fill:#fff4dc}
+    .light{fill:#f9f0dd}
+  </style>
+</defs>
+<rect width="1024" height="1024" fill="#f8f0dc"/>
+<rect x="38" y="26" width="948" height="5" fill="#17263a"/>
+<text x="40" y="104" font-size="81" font-weight="bold" letter-spacing="-5">World in Five</text>
+<text x="984" y="69" text-anchor="end" class="caps" fill="#17263a">WEDNESDAY</text>
+<text x="984" y="105" text-anchor="end" font-size="37" font-weight="bold">25 NOVEMBER 2026</text>
+<rect x="38" y="133" width="948" height="359" rx="6" fill="#17263a"/>
+<rect x="541" y="133" width="445" height="359" fill="url(#stars)" opacity=".8"/>
+<text x="65" y="181" class="caps light">01 / SPACE SCIENCE</text>
+<text x="63" y="259" class="hero">Hera reveals</text>
+<text x="63" y="327" class="hero">DART crater</text>
+<text x="65" y="393" font-size="30" class="light">Dimorphos bears a stadium-sized</text>
+<text x="65" y="429" font-size="30" class="light">crater from the 2022 impact.</text>
+<g fill="none" stroke="#7799b4">
+  <ellipse cx="774" cy="305" rx="184" ry="66" transform="rotate(-28 774 305)" stroke-dasharray="5 9" stroke-width="2"/>
+  <circle cx="774" cy="305" r="142" stroke-width="1" opacity=".6"/>
+</g>
+<g transform="translate(640 182)">
+  <path d="M8 110 40 59 94 21 159 13 215 43 250 101 246 164 198 208 124 218 56 188 18 155Z" fill="url(#rock)"/>
+  <path d="M8 110 40 59 94 21 159 13 215 43 250 101 246 164 198 208 124 218 56 188 18 155Z" fill="url(#dots)"/>
+  <path d="m37 67 53-34 41 9 30 39-22 49-70 11-42-25Z" fill="#ad5c56"/>
+  <path d="m48 71 46-24 29 7 23 29-24 33-49 8-35-16Z" fill="#653c4d"/>
+  <path d="m37 67 53-34 41 9 30 39-22 49-70 11-42-25Z" fill="none" stroke="#ffe0ad" stroke-width="4"/>
+  <path d="m150 143 34-28 47 5-18 38-37 18Z M132 180l23-15 17 20-43 17-18-19Z" fill="#a85a55" opacity=".7"/>
+  <path d="m165 45 29 1 32 34-32-13Z M48 151l51 8 4 22-46-12Z" fill="#ffdda5"/>
+</g>
+<path d="M711 271 640 228h-66" fill="none" stroke="#fff4dc" stroke-width="2"/>
+<circle cx="711" cy="271" r="5" fill="#fff4dc"/>
+<text x="578" y="218" font-size="25" font-weight="bold" class="light">CRATER</text>
+
+<path d="M38 514H986 M512 514V966 M38 746H986 M38 966H986" stroke="#17263a" stroke-width="3"/>
+<text x="43" y="553" class="caps">02 / GLOBAL TRADE</text>
+<text x="42" y="614" class="headline">U.S. proposes tariffs</text>
+<text x="42" y="663" class="headline">on 14 economies</text>
+<text x="43" y="710" font-size="30">China and EU included.</text>
+<g transform="translate(432 679)" stroke="#17263a" stroke-width="4" stroke-linejoin="round">
+  <path d="M-32-11 0-28 32-11 0 7Z" fill="#ffd49d"/>
+  <path d="M-32-11 0 7V40L-32 23Z" fill="#e59c67"/>
+  <path d="M32-11 0 7V40L32 23Z" fill="#c88259"/>
+  <path d="M-16-20 16-2v11M-23 6l13 7" fill="none"/>
+</g>
+<text x="533" y="553" class="caps">03 / UKRAINE</text>
+<text x="532" y="614" class="headline">Russian strikes</text>
+<text x="532" y="663" class="headline">cut power</text>
+<text x="533" y="710" font-size="30">Outages in five regions.</text>
+<g transform="translate(915 651)" stroke="#17263a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+  <circle r="39" fill="#f3cf72" stroke="none"/>
+  <path d="M-21 36-8-31H8l13 67M-28-14H28M-22 2H22M-16 14 16 29M16 14-16 29" fill="none"/>
+  <path d="M-28-14v6m56-6v6" fill="none"/>
+</g>
+<text x="43" y="785" class="caps">04 / HUMAN RIGHTS</text>
+<text x="42" y="843" class="headline">16 Days begins</text>
+<text x="42" y="887" font-size="32" font-weight="bold">Campaign against violence</text>
+<text x="42" y="927" font-size="32" font-weight="bold">toward women and girls.</text>
+<g transform="translate(440 821)" stroke="#17263a" stroke-width="4" stroke-linejoin="round">
+  <path d="M-32-27H32V11H1L-16 25V11H-32Z" fill="#f0a77f"/>
+  <path d="M-15-8H15M-15 1H6" stroke-linecap="round"/>
+</g>
+<text x="533" y="785" class="caps">05 / ASIA-PACIFIC</text>
+<text x="532" y="843" class="headline">Japan &amp; Singapore</text>
+<text x="532" y="892" class="headline">plan naval drills</text>
+<text x="533" y="941" font-size="30">Regular joint exercises.</text>
+<g transform="translate(934 911)" stroke="#17263a" stroke-width="4" stroke-linejoin="round">
+  <path d="M-41-8h72L18 9h-45Z" fill="#df8b79"/>
+  <path d="M-25-8v-12h30l6 12M-9-20v-13m0 3h14" fill="none"/>
+  <path d="M-43 17q9-6 18 0t18 0t18 0t18 0" fill="none"/>
+</g>
+<text x="41" y="1001" font-size="19" letter-spacing="3" font-weight="bold">THE DAILY WORLD BRIEF</text>
+<text x="984" y="1001" text-anchor="end" font-size="19" letter-spacing="3" font-weight="bold">ILLUSTRATED EDITION</text>
+</svg>
+
+
+
