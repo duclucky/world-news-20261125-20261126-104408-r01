@@ -14,7 +14,12 @@ def main() -> None:
         help="destination directory (default: MAKEFUN_OUTPUT_DIR or /output)",
     )
     destination = parser.parse_args().output_dir
-    destination.mkdir(parents=True, exist_ok=True)
+    try:
+        destination.mkdir(parents=True, exist_ok=True)
+    except (FileExistsError, NotADirectoryError):
+        parser.error(f"output destination is not a directory: {destination}")
+    except OSError as error:
+        parser.error(f"cannot create output directory {destination}: {error.strerror}")
     copyfile(Path(__file__).resolve().with_name("entry.png"), destination / "entry.png")
 
 
